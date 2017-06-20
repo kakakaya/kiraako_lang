@@ -5,7 +5,7 @@
 
 このプログラミング言語は[masarakki/nyaruko_lang](https://github.com/masarakki/nyaruko_lang)のフォークです。
 
-[豚肉氏のカツ！](https://kirakiratter.com/@tontonziru/1299600)に触発されて作りました。
+[豚汁氏のカツ！](https://kirakiratter.com/@tontonziru/1299600)に触発されて作りました。
 
 
 Spec
